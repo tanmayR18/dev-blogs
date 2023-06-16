@@ -1,6 +1,6 @@
 
 # Dev Blogs
-A website that displays Blogs related to the tech
+A website that displays Blogs related to the tech using context API
 
 
 

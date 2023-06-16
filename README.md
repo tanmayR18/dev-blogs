@@ -4,7 +4,7 @@ A website that displays Blogs related to the tech using context API
 
 
 
-## Feathers
+## Features
 
 - New Blogs is rendered on new pages - (pagination)
 - By clicking on the title, topic name, and tags all the related tags is shown

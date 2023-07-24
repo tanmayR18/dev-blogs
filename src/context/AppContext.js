@@ -43,6 +43,7 @@ export default function AppContextProvider({children}){
 
     function handlerPageChange(page){
         setPage(page)
+        //he search property is used to append query parameters to the URL when navigating. In this case, it's adding a page parameter to the URL. 
         navigate({search:`?page=${page}`})
     }
 
